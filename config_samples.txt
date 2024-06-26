@@ -1,0 +1,12 @@
+ArrayNumber	SampleID	AffectedTissue	UnaffectedTissue	Out_filename
+1	198	198R4	198R3	198R4_Mutect_AbsNotInTissueAndGenomic.vcf
+2	397	397R4	397R2	397R4_Mutect_AbsNotInTissueAndGenomic.vcf
+3	583	583R4	583R3	583R4_Mutect_AbsNotInTissueAndGenomic.vcf
+4	650	650R2	650R4	650R2_Mutect_AbsNotInTissueAndGenomic.vcf
+5	673	673R5	673R2	673R5_Mutect_AbsNotInTissueAndGenomic.vcf
+6	693	693R6	693R3	693R6_Mutect_AbsNotInTissueAndGenomic.vcf
+7	754	754R2	754R5	754R2_Mutect_AbsNotInTissueAndGenomic.vcf
+8	806	806R3	806R1	806R3_Mutect_AbsNotInTissueAndGenomic.vcf
+9	517	517R4	517R1	517R4_Mutect_AbsNotInTissueAndGenomic.vcf
+10	76	76R6	76R5	76R6_Mutect_AbsNotInTissueAndGenomic.vcf
+11	621	621R2	621R1	621R2_Mutect_AbsNotInTissueAndGenomic.vcf
